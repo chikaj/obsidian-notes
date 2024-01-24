@@ -1,0 +1,78 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "What do I do?.md": {
+      "noteCount": 1,
+      "wordCount": 1539,
+      "pageCount": 5.13,
+      "characterCount": 9622,
+      "nonWhitespaceCharacterCount": 8065,
+      "createdDate": 1676568161828,
+      "modifiedDate": 1676569562316
+    },
+    "US-Mexico Border Environmental Issues/Special Guests-Environmental Problems on the US-Mexico Border.md": {
+      "noteCount": 1,
+      "wordCount": 88,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 546,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1674138226047,
+      "modifiedDate": 1674080116547
+    },
+    "US-Mexico Border Environmental Issues/Possible books for future.md": {
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 110,
+      "createdDate": 1674138226043,
+      "modifiedDate": 1674160479072
+    },
+    "Remote Sensing/Remote sensing sundries.md": {
+      "noteCount": 1,
+      "wordCount": 244,
+      "pageCount": 0.8133333333333334,
+      "characterCount": 1651,
+      "nonWhitespaceCharacterCount": 1372,
+      "createdDate": 1674138226047,
+      "modifiedDate": 1674080116547
+    },
+    "7300-Advanced Geographic Research Design/Introductions.md": {
+      "noteCount": 1,
+      "wordCount": 218,
+      "pageCount": 0.7266666666666667,
+      "characterCount": 1371,
+      "nonWhitespaceCharacterCount": 1067,
+      "createdDate": 1674836772256,
+      "modifiedDate": 1674581880267
+    },
+    "7300-Advanced Geographic Research Design/Course approaches.md": {
+      "noteCount": 1,
+      "wordCount": 230,
+      "pageCount": 0.7666666666666667,
+      "characterCount": 1423,
+      "nonWhitespaceCharacterCount": 1160,
+      "createdDate": 1674172264955,
+      "modifiedDate": 1674173998246
+    },
+    "5300-Applied Research Design and Techniques/Introductions.md": {
+      "noteCount": 1,
+      "wordCount": 275,
+      "pageCount": 0.9166666666666666,
+      "characterCount": 1791,
+      "nonWhitespaceCharacterCount": 1380,
+      "createdDate": 1674836772256,
+      "modifiedDate": 1674581928624
+    }
+  }
+}

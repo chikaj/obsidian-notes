@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"75f9ae2724f8260c","x":-727,"y":-599,"width":250,"height":60,"type":"text","text":"Deep learning"},
+		{"id":"7fdc9b5c9821e0f3","x":-546,"y":-325,"width":250,"height":60,"type":"text","text":"Building extraction from orbital imagery"},
+		{"id":"142b52dde3fdb75c","x":-198,"y":-539,"width":250,"height":60,"type":"text","text":"Photogrammetric methods"},
+		{"id":"4514987c8346bac2","x":-671,"y":-51,"width":250,"height":60,"type":"text","text":"Buidling morphology"},
+		{"id":"25500e9af5405777","x":-165,"y":-385,"width":250,"height":60,"type":"text","text":"Concept #1"},
+		{"id":"00d86d94856f7beb","x":107,"y":-219,"width":250,"height":60,"type":"text","text":"Concept #2"}
+	],
+	"edges":[
+		{"id":"6b2383f2259da853","fromNode":"75f9ae2724f8260c","fromSide":"bottom","toNode":"7fdc9b5c9821e0f3","toSide":"top"},
+		{"id":"cdc8514c14446300","fromNode":"7fdc9b5c9821e0f3","fromSide":"bottom","toNode":"4514987c8346bac2","toSide":"right"},
+		{"id":"8906bced9122cc74","fromNode":"142b52dde3fdb75c","fromSide":"top","toNode":"7fdc9b5c9821e0f3","toSide":"top"},
+		{"id":"c3aa37c19525b002","fromNode":"25500e9af5405777","fromSide":"top","toNode":"7fdc9b5c9821e0f3","toSide":"top"},
+		{"id":"6d3e292592229236","fromNode":"00d86d94856f7beb","fromSide":"top","toNode":"25500e9af5405777","toSide":"bottom"},
+		{"id":"0f37ecbe93d21f43","fromNode":"25500e9af5405777","fromSide":"right","toNode":"00d86d94856f7beb","toSide":"right"}
+	]
+}

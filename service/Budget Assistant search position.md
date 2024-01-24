@@ -1,0 +1,2 @@
+1. Interviewed Holly Mizwa and Randal Baccus. Both were great interviews--both qualified candidates.
+2. Sent 2nd emails to Brent Tubbs, William Brewer and Sloane Thompson and inviting them to respond with their interest, and if interested, about their availability next Tuesday for an interview.

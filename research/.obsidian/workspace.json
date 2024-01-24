@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "2039145c50f099e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd5c27e83e274ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaa3e5336c8f68fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mobility/Mobility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f89f010285910792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mobility/Mobility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2312b6cda7471582",
+    "type": "split",
+    "children": [
+      {
+        "id": "33fc8675f57d7104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41466dae1cdcd7f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b2cf99a2fe7b268",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a16dce51fd1d1d5c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bf3e5c0970128b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4096a6656c92e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "635e41fd3798583f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mobility/Mobility.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7df49b980ea42a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mobility/Mobility.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "982f02c4db65153e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb725b0f4a0be75f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mobility/Mobility.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aaa3e5336c8f68fd",
+  "lastOpenFiles": [
+    "Vehicle.md",
+    "mobility/Mobility.md",
+    "Livability.md",
+    "mobility/Mobility Canvas.canvas",
+    "greenbuilding/Photovoltaics.md",
+    "Literature Review/2. Concept map.canvas",
+    "Literature Review/1. Annotated Bibliography.md",
+    "Earth Observation.md",
+    "Segmentation.md",
+    "Building Footprint.md"
+  ]
+}

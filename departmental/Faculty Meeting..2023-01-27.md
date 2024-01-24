@@ -1,0 +1,13 @@
+- Respond to Allison RE accepting PhD students into program. Act quickly
+- Attend and recruit at SWAAG and AGC
+- WellonTarget--a wellness program where I win points for doing wellness things and then can buy things. Check it out.
+- ARSC: going to one big event every 5 years.
+	- 4 years in between will be an award ceremony and a reception. Aka: small
+- GESSRS: 
+	- Register!
+	- Communicate with Harv Miller RE photo, title, abstract
+	- Communicate with Charles RE setting up a high quality Zoom meeting
+	- Confirm with Michael Solem the time of Harv's talk
+- Angelika is retiring. Oh No! Last day is 9 February. Too soon!
+	- cites lack of college support for staff, and
+	- ailing parents

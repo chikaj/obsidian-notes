@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"9114b05b6b9a0b69","x":-470,"y":-299,"width":250,"height":60,"type":"text","text":"Mobility in cities"},
+		{"id":"e4a4231331c642e3","x":182,"y":-214,"width":250,"height":60,"type":"text","text":"Population vulnerability"},
+		{"id":"8a57e004f451f3ee","x":-270,"y":-56,"width":250,"height":60,"type":"text","text":"Economic policy"},
+		{"id":"ca9476e4af6e1832","x":97,"y":80,"width":250,"height":60,"color":"1","type":"text","text":"Climate change"},
+		{"id":"9e521c6dcc5eca3b","x":97,"y":-402,"width":250,"height":60,"type":"text","text":"Author: Joe"},
+		{"id":"66bae7136304de89","x":365,"y":-432,"width":250,"height":60,"type":"text","text":"Author: Smith"}
+	],
+	"edges":[
+		{"id":"19249334c0f1f9ba","fromNode":"9114b05b6b9a0b69","fromSide":"right","toNode":"8a57e004f451f3ee","toSide":"top"},
+		{"id":"0c50e12bded90bfd","fromNode":"e4a4231331c642e3","fromSide":"left","toNode":"8a57e004f451f3ee","toSide":"top"},
+		{"id":"32430c4d9cdcbcca","fromNode":"ca9476e4af6e1832","fromSide":"top","toNode":"e4a4231331c642e3","toSide":"bottom"},
+		{"id":"05a245bd4dd1eae2","fromNode":"9e521c6dcc5eca3b","fromSide":"bottom","toNode":"e4a4231331c642e3","toSide":"top"},
+		{"id":"2149af03a95dd89e","fromNode":"66bae7136304de89","fromSide":"bottom","toNode":"e4a4231331c642e3","toSide":"top","color":"6","label":"asdflkasjdf"}
+	]
+}

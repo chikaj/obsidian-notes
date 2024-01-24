@@ -1,0 +1,24 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "Faculty Meeting..2023-01-27.md": {
+      "noteCount": 1,
+      "wordCount": 125,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 688,
+      "nonWhitespaceCharacterCount": 556,
+      "createdDate": 1674855222736,
+      "modifiedDate": 1674855624273
+    }
+  }
+}

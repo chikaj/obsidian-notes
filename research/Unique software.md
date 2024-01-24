@@ -1,0 +1,1 @@
+[Literature Mapper](https://plugins.qgis.org/plugins/LiteratureMapper/) (QGIS for Zotero)

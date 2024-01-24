@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "870e50dcdd509de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "da36070cc74e381f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ff5ebdd4bc0900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teaching/2024-7300.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2505d7475e9d86d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f71bd8cc59a73f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d443664a0c2313b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98aeddeed0485642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5cd37816a6be2d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ad0808bad4177d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d5c1d9209e9a678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8211ca44c3b2b3ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "teaching/2024-7300.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0a4e1fdee597a16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "teaching/2024-7300.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8969bb0ffb90f0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4da4c1dd614b7550",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "teaching/2024-7300.md"
+              }
+            }
+          },
+          {
+            "id": "1a388bbe8cb366fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false
+    }
+  },
+  "active": "e2ff5ebdd4bc0900",
+  "lastOpenFiles": [
+    "AI.md",
+    "teaching/2024-7300.md",
+    "teaching/2023-7300-Advanced Geographic Research Design/Introductions.md",
+    "teaching/2023-7300-Advanced Geographic Research Design/Course approaches.md",
+    "Web Development/Modern SaaS (Annotated).canvas",
+    "webdev.tar",
+    "webdev.tar.gz",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 11 Testing/11.3 - CRUD Tests.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 11 Testing/11.2 - Auth Flow Tests.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 11 Testing/11.1 - Setup Playwright.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.8 - Seeding Contacts.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.7.1 - Close Modal on Cancel.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.7 - Deleting Contacts.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.6 - Updating Contacts.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.5 - Reading Contacts.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.4 - Supabase Admin Client.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.3 - Creating Contacts.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.2 - Seeding Supabase.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.1 - Contacts Table & RLS Policies.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.6 - Account Actions.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.5 - Account Page.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.4 - User Logout & Navigation.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.3 - Protecting Auth Routes.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.2 - User Login.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.1 - User Registration.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase/2.4 - Client-Side Supabase.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase/2.3 - Server-Side Supabase.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase/2.2 - Install Supabase SDKs & Generate Types.md",
+    "Web Development/Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase/2.1 Server-Side Environment.md"
+  ]
+}

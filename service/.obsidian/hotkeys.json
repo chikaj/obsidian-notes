@@ -1,0 +1,26 @@
+{
+  "obsidian-timestamper:obsidian-fast-datestamp": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-timestamper:obsidian-fast-timestamp": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "2"
+    }
+  ],
+  "obsidian-timestamper:obsidian-custom-timestamp": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "3"
+    }
+  ]
+}

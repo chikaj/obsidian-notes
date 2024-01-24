@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b17e7b870ce8803a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d45c01cc5a16ee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbe0c89305aa13f0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Modern SaaS (Annotated).canvas",
+                "viewState": {
+                  "x": 306.1251972396683,
+                  "y": -571.8833254991224,
+                  "zoom": -1.6
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45cec5954ca935a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9021fcdab3da3947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe7540524b01a6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea03dbc7b17b63bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "registerUserSchema",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37eb7ac6a227ff97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "323f6d8c485c69f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b919a592ab4ff103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea717f51c6f9fb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modern SaaS (Annotated).canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e53b1de410d511b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modern SaaS (Annotated).canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1208ce2df7cde830",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d43f5ac6f7e4813c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modern SaaS (Annotated).canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cbe0c89305aa13f0",
+  "lastOpenFiles": [
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 1 Project Setup/1.1 - SvelteKit Project Setup.md",
+    "Modern SaaS (Annotated).canvas",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.6 - Account Actions.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.5 - Account Page.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.3 - Protecting Auth Routes.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.2 - User Login.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.4 - User Logout & Navigation.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth/3.1 - User Registration.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase/2.4 - Client-Side Supabase.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase/2.3 - Server-Side Supabase.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase/2.2 - Install Supabase SDKs & Generate Types.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase/2.1 Server-Side Environment.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 1 Project Setup/1.4 Profile Tables and RLS.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 1 Project Setup/1.3 Protected Auth Schema.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 1 Project Setup/1.2 - Supabase Local Development.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.1 - Contacts Table & RLS Policies.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.3 - Creating Contacts.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.5 - Reading Contacts.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.4 - Supabase Admin Client.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.7 - Deleting Contacts.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 11 Testing/11.1 - Setup Playwright.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.8 - Seeding Contacts.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.2 - Seeding Supabase.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 11 Testing/11.3 - CRUD Tests.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 11 Testing/11.2 - Auth Flow Tests.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 11 Testing",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)/4.7.1 - Close Modal on Cancel.md",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 4 CRUD (Create, Read, Update & Delete)",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 3 User Auth",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 2 Integrate SvelteKit and Supabase",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 1 Project Setup/Untitled",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase/Module 1 Project Setup",
+    "Modern SaaS Apps with SvelteKit, Stripe, & Supabase"
+  ]
+}

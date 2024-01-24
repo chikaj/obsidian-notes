@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "Spring 2023 Colloqium Visitors.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 191,
+      "pageCount": 0.6366666666666667,
+      "characterCount": 1277,
+      "nonWhitespaceCharacterCount": 997,
+      "createdDate": 1674836772262,
+      "modifiedDate": 1674768959207
+    },
+    "Budget Assistant search position.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 44,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 295,
+      "nonWhitespaceCharacterCount": 252,
+      "createdDate": 1674852815128,
+      "modifiedDate": 1674852802153
+    }
+  }
+}

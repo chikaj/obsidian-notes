@@ -1,0 +1,87 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "mobility/Mobility.md": {
+      "noteCount": 1,
+      "wordCount": 239,
+      "pageCount": 0.7966666666666666,
+      "characterCount": 1856,
+      "nonWhitespaceCharacterCount": 1610,
+      "createdDate": 1676562085990,
+      "modifiedDate": 1676562777479
+    },
+    "greenbuilding/Photovoltaics.md": {
+      "noteCount": 1,
+      "wordCount": 29,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 355,
+      "nonWhitespaceCharacterCount": 325,
+      "createdDate": 1676066096704,
+      "modifiedDate": 1676067429433
+    },
+    "Vehicle.md": {
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 27,
+      "createdDate": 1676562777471,
+      "modifiedDate": 1676562790796
+    },
+    "Unique software.md": {
+      "noteCount": 1,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 89,
+      "nonWhitespaceCharacterCount": 85,
+      "createdDate": 1674138226027,
+      "modifiedDate": 1674080116539
+    },
+    "Segmentation.md": {
+      "noteCount": 1,
+      "wordCount": 6,
+      "pageCount": 0.02,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 32,
+      "createdDate": 1675997190986,
+      "modifiedDate": 1675997202015
+    },
+    "Livability.md": {
+      "noteCount": 1,
+      "wordCount": 11,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 58,
+      "nonWhitespaceCharacterCount": 48,
+      "createdDate": 1676562722699,
+      "modifiedDate": 1676562743075
+    },
+    "Literature Review/1. Annotated Bibliography.md": {
+      "noteCount": 1,
+      "wordCount": 481,
+      "pageCount": 1.6033333333333333,
+      "characterCount": 3717,
+      "nonWhitespaceCharacterCount": 3230,
+      "createdDate": 1675984073794,
+      "modifiedDate": 1675997238543
+    },
+    "Earth Observation.md": {
+      "noteCount": 1,
+      "wordCount": 2,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 9,
+      "nonWhitespaceCharacterCount": 8,
+      "createdDate": 1675997239035,
+      "modifiedDate": 1675997243295
+    }
+  }
+}
